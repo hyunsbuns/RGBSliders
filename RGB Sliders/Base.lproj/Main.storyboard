@@ -47,7 +47,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="Lc3-p3-Tmf" kind="show" id="5WF-f8-dRN"/>
+                                    <segue destination="Lc3-p3-Tmf" kind="show" identifier="openColor" id="5WF-f8-dRN"/>
                                 </connections>
                             </button>
                         </subviews>
